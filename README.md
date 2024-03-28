@@ -1,2 +1,2 @@
 # test-swaggerhub-sync
-Testing Swaggerhub OpenAPI push options
+Nothing to see here, just testing swaggerhub free account sync of openapi docs/specs.
